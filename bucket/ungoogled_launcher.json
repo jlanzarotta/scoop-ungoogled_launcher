@@ -1,12 +1,12 @@
 {
-    "version": "2025.5.1",
+    "version": "2025.5.2",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/jlanzarotta/ungoogled_launcher/releases/download/2025.5.1/ungoogled_launcher_Windows_x86_64.zip",
+            "url": "https://github.com/jlanzarotta/ungoogled_launcher/releases/download/2025.5.2/ungoogled_launcher_Windows_x86_64.zip",
             "bin": [
                 "ungoogled_launcher.exe"
             ],
-            "hash": "fada522e07d8136ff4bcd45a0cb10726a25768d920a9f5dfee8433baa8a966bb"
+            "hash": "a50e237f684562eb055db9aecb6a0a1b3ce83370804e03d0b4f4602ed9076da2"
         }
     },
     "homepage": "https://github.com/jlanzarotta/ungoogled_launcher",
